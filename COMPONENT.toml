@@ -3,7 +3,7 @@ name = "SigmaOS-portage"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "portage component"
+description = "Gentoo Portage package management compatibility layer with ebuild support, USE flags, and source-based compilation"
 upstream = []
 
 [contract]
